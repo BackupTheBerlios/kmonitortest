@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=KMonitorTest - a kcontrol module
+DocPath=kmonitortest
+Exec=kcmshell kmonitortest
+Icon=kmonitortest
+Keywords=KMonitorTest,kmonitortest
+Name=Monitor Test
+SwallowExec=
+SwallowTitle=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-FactoryName=kmonitortest
+X-KDE-Library=kmonitortest
+X-KDE-ModuleType=Library
+X-KDE-SubstituteUID=false
+X-KDE-Username=
